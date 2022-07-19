@@ -1,7 +1,7 @@
 This was a group project for CS3244 Machine Learning in NUS.
 The whole project is not here.
 
-<p> <b> <u> Scope of Project: </b> </p> </u>
+<p> <b> <u> Scope of Project: </u> </b> </p> </u>
 
 <p> Viewership experience often ruined or diminished by spoilers. Spoilers detract from the thrill and genuine emotional investment from an audience, which may often result in viewers not wanting to tune into spoiled movies, leading to revenue loss for the film industry as well. Having a model that detects movie spoilers in text all across the internet might be able to help preserve this emotional investment and relationship between the viewers, the movie and film-makers. </p>
 
